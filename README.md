@@ -1,4 +1,4 @@
 # vk-demo
 This is my first repository
 <br>
-Author - Gowtham N A
+Author - Gowtham (virat)
